@@ -1,6 +1,6 @@
 #Note
 
-__apk file__ can be found [here](https://github.com/KOgroup/AndroidApp/blob/master/Angle Meter.apk)
+__APK file__ can be found [here](https://github.com/KOgroup/AndroidApp/blob/master/Angle Meter.apk)
 
 __Icon for google play__ can be found [here](https://github.com/KOgroup/AndroidApp/blob/master/ic_launcher-web.png)
 
