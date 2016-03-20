@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="src" path="/Angle Meter-core"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Matic/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.1/18554775a4fb747d360da5838298aafbb49bf13a/gdx-backend-android-1.9.1.jar" sourcepath="C:/Users/Matic/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.1/c6cfb3974404036d89fc7a313d6894b21a427760/gdx-backend-android-1.9.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Matic/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.9.1/984e5fb95e17b03ae5884205f8b886930ef4867/gdx-freetype-1.9.1.jar" sourcepath="C:/Users/Matic/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.9.1/b961b3feb67a5b35fb0dc75d97ce61158f053e56/gdx-freetype-1.9.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Matic/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.1/41e844a4849872fdb9c33f3f2790e356f907f491/gdx-1.9.1.jar" sourcepath="C:/Users/Matic/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.1/967b353957d44206e217414fa0e229f71c6a9dc7/gdx-1.9.1-sources.jar"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
