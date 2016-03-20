@@ -1,0 +1,63 @@
+	{
+	"com.badlogic.gdx.graphics.Color":{
+		"white": { "r": 1, "g": 1, "b": 1, "a": 1}	
+		"black": { "r": 0, "g": 0, "b": 0, "a": 1}	
+		"red": 	 { "r": 1, "g": 0, "b": 0, "a": 1}
+		"blue": 	 { "r": 0.31, "g": 0.35, "b": 0.64, "a": 1}
+		"green": 	 { "r": 0, "g": 0.7, "b": 0.3, "a": 1}
+		"gray": 	 { "r": 0.6, "g": 0.6, "b": 0.6, "a": 1}
+	},
+	
+	"com.badlogic.gdx.graphics.g2d.BitmapFont":{
+	
+	},
+	
+	"com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle":{
+		"default": { "font": myFont, "fontColor": white},
+		"small": { "font": small, "fontColor": white},
+		"note": { "font": medium, "fontColor": white}
+		
+	}
+	
+	"com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle":{
+		"default": {"font": myFont, "up": "upButton", "down": "downButton","fontColor": black, "downFontColor": black},
+		"small": {"font": small, "up": "bg2", "fontColor": green, "downFontColor": black}
+		"small2": {"font": small, "up": "bg2", "fontColor": red, "downFontColor": black}
+		"bubble": {"font": small, "fontColor": white}
+	},
+	
+	"com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle":{
+	"default": { "up": "boxBg"},
+	"files": { "up": "saved"}
+	"b1" :{"up": "b1"}
+	"b2" :{"up": "b2"}
+	"b3" :{"up": "b3"}
+	"b4" :{"up": "b4"}
+	"b6" : {"up": "b6a", "checked": "b6b"}
+	"red" : {"up": "red", "down" : "red2"}
+	"deleteall": {"up": "deleteall"}
+		
+	}
+	com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle: {
+    default: {"font": medium, "fontColorSelected": blue, "fontColorUnselected": blue, "selection": "empty", "background": "empty"}
+    
+	}
+	
+	com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: {
+    default: {"vScrollKnob": "scrollbar"}
+    
+	}
+
+	"com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle":{
+		"default": { "titleFont": myFont, "background": "boxBg", "titleFontColor": white},
+		"note" :{"titleFont": myFont, "background": "boxBg", "titleFontColor": white, "stageBackground": "gray"}
+	}
+	
+	
+	
+	"com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle":{
+		"horizontal": {"background": "slider", "knob": "knob"},
+		"vertical": {"background": "slider2", "knob": "knob2"}
+	}	
+		
+	}
